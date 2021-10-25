@@ -1,4 +1,5 @@
 **/data
 *.bat
-*json
-*csv
+*.json
+*.csv
+*.pkl
